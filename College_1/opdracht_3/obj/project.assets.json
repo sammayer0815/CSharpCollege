@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\samma\\Code\\Csharp\\CollegeOpdrachten\\College_1\\opdracht_3\\opdracht_3.csproj",
+      "projectUniqueName": "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\opdracht_3.csproj",
       "projectName": "opdracht_3",
-      "projectPath": "C:\\Users\\samma\\Code\\Csharp\\CollegeOpdrachten\\College_1\\opdracht_3\\opdracht_3.csproj",
+      "projectPath": "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\opdracht_3.csproj",
       "packagesPath": "C:\\Users\\samma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\samma\\Code\\Csharp\\CollegeOpdrachten\\College_1\\opdracht_3\\obj\\",
+      "outputPath": "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\samma\\AppData\\Roaming\\NuGet\\NuGet.Config"
