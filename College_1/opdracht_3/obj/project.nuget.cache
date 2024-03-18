@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "6Rq54ZgFx4kjPRlWgDkjhteMujPqq4zqH5I5XfUu4TeyFIRthMdSGsiC6BwdokJd2gerlvaVM/O2xLzZXYEmfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\samma\\Code\\Csharp\\CollegeOpdrachten\\college_1\\opdracht_3\\opdracht_3.csproj",
+=======
+  "dgSpecHash": "sNv0ZBxbVAMAfyidLwG4y23QbbfklTG9BgNFtNyw2SuWL7Qa2ey3FTzcMka5OsCMY/KniVdf2O6Fi0SDR/3Uqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\opdracht_3.csproj",
+>>>>>>> 79a05d8b1a3b5665497f9584da59a1de4f4a6375
   "expectedPackageFiles": [],
   "logs": []
 }

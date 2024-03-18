@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\samma\\Code\\Csharp\\CollegeOpdrachten\\college_1\\opdracht_3\\opdracht_3.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\samma\\Code\\Csharp\\CollegeOpdrachten\\college_1\\opdracht_3\\opdracht_3.csproj",
         "packagesPath": "C:\\Users\\samma\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\samma\\Code\\Csharp\\CollegeOpdrachten\\college_1\\opdracht_3\\obj\\",
+=======
+    "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\opdracht_3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\opdracht_3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\opdracht_3.csproj",
+        "projectName": "opdracht_3",
+        "projectPath": "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\opdracht_3.csproj",
+        "packagesPath": "C:\\Users\\samma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samma\\Code\\CSharp\\CSharpCollege\\College_1\\opdracht_3\\obj\\",
+>>>>>>> 79a05d8b1a3b5665497f9584da59a1de4f4a6375
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samma\\AppData\\Roaming\\NuGet\\NuGet.Config"

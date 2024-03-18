@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = opdracht_3
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\samma\Code\Csharp\CollegeOpdrachten\college_1\opdracht_3\
+=======
+build_property.ProjectDir = C:\Users\samma\Code\CSharp\CSharpCollege\College_1\opdracht_3\
+>>>>>>> 79a05d8b1a3b5665497f9584da59a1de4f4a6375
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
