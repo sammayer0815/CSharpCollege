@@ -1,0 +1,15 @@
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\bin\Debug\net8.0\opdracht_1.exe
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\bin\Debug\net8.0\opdracht_1.deps.json
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\bin\Debug\net8.0\opdracht_1.runtimeconfig.json
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\bin\Debug\net8.0\opdracht_1.dll
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\bin\Debug\net8.0\opdracht_1.pdb
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.AssemblyInfoInputs.cache
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.AssemblyInfo.cs
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.csproj.CoreCompileInputs.cache
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.sourcelink.json
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.dll
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\refint\opdracht_1.dll
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.pdb
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\opdracht_1.genruntimeconfig.cache
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_1\obj\Debug\net8.0\ref\opdracht_1.dll

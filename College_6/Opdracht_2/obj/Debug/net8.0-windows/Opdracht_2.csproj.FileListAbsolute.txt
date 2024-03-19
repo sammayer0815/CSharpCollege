@@ -1,0 +1,17 @@
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\bin\Debug\net8.0-windows\Opdracht_2.exe
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\bin\Debug\net8.0-windows\Opdracht_2.deps.json
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\bin\Debug\net8.0-windows\Opdracht_2.runtimeconfig.json
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\bin\Debug\net8.0-windows\Opdracht_2.dll
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\bin\Debug\net8.0-windows\Opdracht_2.pdb
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.Form1.resources
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.csproj.GenerateResource.cache
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.AssemblyInfoInputs.cache
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.AssemblyInfo.cs
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.csproj.CoreCompileInputs.cache
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.sourcelink.json
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.dll
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\refint\Opdracht_2.dll
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.pdb
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\Opdracht_2.genruntimeconfig.cache
+C:\Users\samma\Code\Csharp\CollegeOpdrachten\College_6\Opdracht_2\obj\Debug\net8.0-windows\ref\Opdracht_2.dll
